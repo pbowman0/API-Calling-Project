@@ -11,6 +11,7 @@
 		3F0010AC25F2952400292B34 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0010AB25F2952400292B34 /* ContentView.swift */; };
 		3F0010AE25F2952800292B34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F0010AD25F2952800292B34 /* Assets.xcassets */; };
 		3F0010B125F2952800292B34 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F0010B025F2952800292B34 /* Preview Assets.xcassets */; };
+		3F0010BA25F295B100292B34 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0010B925F295B100292B34 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F0010AD25F2952800292B34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F0010B025F2952800292B34 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F0010B225F2952800292B34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F0010B925F295B100292B34 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F0010A925F2952400292B34 /* API_Calling_ProjectApp.swift */,
 				3F0010AB25F2952400292B34 /* ContentView.swift */,
+				3F0010B925F295B100292B34 /* SwiftyJSON.swift */,
 				3F0010AD25F2952800292B34 /* Assets.xcassets */,
 				3F0010B225F2952800292B34 /* Info.plist */,
 				3F0010AF25F2952800292B34 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F0010BA25F295B100292B34 /* SwiftyJSON.swift in Sources */,
 				3F0010AC25F2952400292B34 /* ContentView.swift in Sources */,
 				3F0010AA25F2952400292B34 /* API_Calling_ProjectApp.swift in Sources */,
 			);
